@@ -35,7 +35,6 @@
 <body>
 	<!-- ex18_ok.jsp -->
 	
-	
 	<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
 	<script src="http://pinnpublic.dothome.co.kr/cdn/example-min.js"></script>
 	<script>
